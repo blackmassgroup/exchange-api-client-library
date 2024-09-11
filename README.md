@@ -4,6 +4,8 @@
 
 Bruno is a Postman,Insomnia/Insomnia alternative.
 
+![screenshot](/ss.png)
+
 Setup
 
 1. Install, on mac `brew install bruno`; others see their [website](https://www.usebruno.com/)
